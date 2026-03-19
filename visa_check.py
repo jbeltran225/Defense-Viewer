@@ -67,7 +67,7 @@ st.markdown("""
 # =========================================================
 # RUTA DEL ARCHIVO
 # =========================================================
-EXCEL_PATH = Path(r"C:\Users\JulianaRodriguezBelt\Downloads\DEFENSE_VIEWER\VISA_CHECK.xlsx")
+EXCEL_PATH = Path("VISA_CHECK.xlsx")
 SHEET_NAME = "VISA CHECK"
 
 # =========================================================
