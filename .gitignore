@@ -3,3 +3,4 @@ _pycache_/
 visa_env/
 .env
 .streamlit/
+~$*.xlsx
